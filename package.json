@@ -1,0 +1,10 @@
+{
+  "name": "RainUI",
+  "version": "1.0.0",
+  "description": "A usefull react UI for easy components",
+  "main": "app.ts",
+  "repository": "https://github.com/jordanswax/rainui",
+  "author": "GucciRain",
+  "license": "MIT",
+  "private": false
+}
